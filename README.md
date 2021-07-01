@@ -24,9 +24,9 @@ To detect cardiovascular disease with above methods, I also investigate which da
 
 # Results
 Below are the results of implemented machine learning methods used and observed that XGBoost is giving the best accuracy out of all.   
-* Logistic Regression - 72.0,
-* KNN classifier - 69.15, 
-* Support vector machine - 72.92, 
-* Random forest classifier - 73.63, 
-* Naive Bayes classifier - 59.48, 
+* Logistic Regression - 72.0
+* KNN classifier - 69.15 
+* Support vector machine - 72.92 
+* Random forest classifier - 73.63
+* Naive Bayes classifier - 59.48
 * XGBoost classifier - 73.79
