@@ -20,7 +20,8 @@ The cardiovascular disease [dataset](https://www.kaggle.com/sulianova/cardiovasc
 
 # Overview
 In this study, I explore several machine learning approaches to detect the presence of cardiovascular disease. I leverage traditional machine learning techniques including a Logistic Regression, a KNN classifier, a support vector machine (SVM) with a Gaussian RBF kernel, a Random forest classifier, a Naive Bayes classifier, and a XGBoost classifier. Furthermore, I utilize grid search for extracting best hyper parameters which could help in selecting the best parmeters to choose to yield the good results. 
-To detect cardiovascular disease with above methods, I also investigate which data features (factual, examination and social information) are most expressive of disease.  
+
+To detect cardiovascular disease with above methods, I also investigate which data features (factual, examination and social information) are most expressive of disease and useful for predicting the disease. 
 
 # Results
 Below are the results of implemented machine learning methods used and observed that XGBoost is giving the best accuracy out of all.   
