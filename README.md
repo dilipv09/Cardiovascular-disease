@@ -1,4 +1,4 @@
-# Cardiovascular Disease Analysis
+# Cardiovascular Disease Diagnosis
 
 # Problem Statement
 The objective is to develop a classifier to identify the presence of cardiovascular disease.
