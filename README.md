@@ -1,7 +1,7 @@
 # Cardiovascular Disease Analysis
 
-# Objective
-To develop a classifier to identify the presence of cardiovascular disease.
+# Problem Statement
+The objective is to develop a classifier to identify the presence of cardiovascular disease.
 
 # Dataset description
 The cardiovascular disease [dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) is an open-source dataset found on Kaggle. The data consists of 70,000 patient records and contains 11 features (4 Factual information, 4 examination, and 3 patient social information) and a target. Dataset is almost balanced with 34,979 having cardiovascular disease and 35,021 not having cardiovascular disease.
